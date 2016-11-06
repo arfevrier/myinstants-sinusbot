@@ -1,0 +1,3 @@
+DirectoryIndex index.html
+Order deny,allow
+Allow from all

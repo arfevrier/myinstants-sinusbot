@@ -1,0 +1,4 @@
+- Add ssl support to sinusbot rest api
+- Fix invisible error (Script optimization)
+- Add cloudflare support (Script error)
+- Add button image to local ressource
