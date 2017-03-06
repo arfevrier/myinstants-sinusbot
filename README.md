@@ -19,7 +19,7 @@
 ## Installation
 - Download and put the php file on your web server. (https://github.com/arnicel/myinstants-sinusbot/releases)
 - Check config.php and if necessary modify ip, port, login, password, instance uuid (automatically detect)...
-- Modify permission of /private/db.json to chmod 0755, write permission for PHP user (Favorie database)
+- Modify permission of /private/db.json to chmod 0755, write permission for PHP user (Favourite database)
 - Load index.php in your browser and enjoy!
 
 ## Question?
